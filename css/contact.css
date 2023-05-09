@@ -1,0 +1,31 @@
+body {
+    overflow-x: hidden;
+    background: linear-gradient(90deg, rgba(32,28,78,1) 0%, rgba(48,30,46,1) 50%, rgba(143,39,46,1) 100%);
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+.masthead {
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.name {
+    margin-left: 37%;
+}
+
+.contactformulier {
+    margin-top: 20%;
+}
+
+.submit-button{
+    background-color: transparent;
+}
+
+.hover-overlay:hover {
+    background-color: hsla(0, 0%, 98%, 0.35);
+}
+
